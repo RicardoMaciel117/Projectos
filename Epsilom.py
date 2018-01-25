@@ -1,22 +1,5 @@
 #Ricardo Montiel Maciel
-#Oscar Zuriel Guerrero Zapata
-#Abraham Vazquez Garcia
-#Jose Alfredo Cabrera Pena
-#Jose Ricardo Roman de la Hidalga
-print """
-+_____________________________________+
-|   ____     ____   ___  ___     ___  |
-|  /  __\   |   /  /  / \   \   |   | |
-| /  /      |  /  /  /   \   \  /  /  |
-| \  \__    |  |_/  /     \   \/  /   |
-|  \___ \   |	 __/ 	   \	 /    |
-|      \ \  |  \  \         \   /     |
-|   ___/ /  |  |\  \	    /  /      |
-|  /____/   |__| \__\      |__/       |
-|                                     |
-|               Lite                  |
-+_____________________________________+
-"""
+
 op = "1"
 while op == "1":
 	cadena = raw_input("""Inserte un conjunto separado por comas -> Ej: {ab,ba}
